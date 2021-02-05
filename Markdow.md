@@ -6,7 +6,7 @@
 <h2 id="markdow-inicio-dos-trabalhos-talk-and-live-janeiro-2021"><em>MARKDOW INICIO DOS TRABALHOS TALK AND LIVE JANEIRO 2021</em></h2>
 <p>Meu primeiro arquivo Markdown em <strong>StackEdit</strong>, meu primeiro mês trabalhando para a <strong>Talk and Live</strong></p>
 <h2 id="estudos"><em>Estudos</em></h2>
-<p>Os estudos deste primeiro mês foram aprendendo a usar a IDE Visual Studio Code e Visual Studio 2019 Community, em linguagem C#, aprendemos a usar a plataforma GitHub para colocar os repositórios, estou lendo e vendo vídeos sobre alguns conteúdos em linguagem C# para .NET 5.0, estamos buscando implementar os sistemas usando Princípios S.O.L.I.D,</p>
+<p>Os estudos deste primeiro mês foram aprendendo a usar a IDE Visual Studio Code e Visual Studio 2019 Community, em linguagem C#, aprendemos a usar a plataforma GitHub para alocar os repositórios, estou lendo e vendo vídeos sobre alguns conteúdos em linguagem C# para .NET 5.0, estamos buscando implementar os sistemas usando Princípios S.O.L.I.D,</p>
 <h2 id="experiência-no-aprendizado"><em>Experiência no Aprendizado</em></h2>
 <p><strong>Linguagem</strong><br>
 Usando a linguagem C#, foi uma nova experiência devido a nunca ter trabalhado com ela, estou me adaptando e buscando conhecimento para aprimorar meus estudos e execução dos sistemas usando esta linguagem, estou gostando bastante.</p>
